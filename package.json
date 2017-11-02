@@ -1,6 +1,6 @@
 {
   "name": "@basalt/bedrock-core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Bedrock Core by Basalt",
   "main": "index.js",
   "scripts": {
